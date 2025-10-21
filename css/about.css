@@ -1,0 +1,65 @@
+.hiring-heading-block {
+	background: #006f46;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+.hiring-content-block p,
+.working-content-block p {
+	margin: 1.25rem 0;
+}
+
+.working-heading-block {
+	background: #f9b300;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+.about-featured-img {
+	margin-bottom: 1.25rem;
+}
+
+.about-work-heading {
+	background: #c9af94;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+.about-work-content p {
+	margin: 1.25rem 0;
+	font-weight: 500;
+	text-decoration: underline;
+}
+
+.about-education-heading {
+	background: #fbcae0;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 0 10px;
+	text-transform: uppercase;
+	margin-top: 1.25rem;
+}
+
+.about-education-content p {
+	margin: 1.25rem 0;
+	font-weight: 500;
+	text-decoration: underline;
+}
+
+.about-featured-img-2 {
+	margin-top: 1.25rem;
+}

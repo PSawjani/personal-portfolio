@@ -1,0 +1,111 @@
+.contact-msg-heading {
+	font-weight: 600;
+	margin-bottom: 0.5rem;
+	text-decoration: underline;
+}
+
+.contact-heading p {
+	background: #ff2800;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	margin-bottom: 1.25rem;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+.contact-form {
+	background: #ffffff;
+	border-radius: 2px;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.contact-form input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid #000000;
+}
+
+.contact-form textarea {
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #000000;
+}
+
+.send-btn {
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+
+.send-btn button {
+	padding: 5px 25px;
+	cursor: pointer;
+	border: 1px solid #000000;
+	background: transparent;
+}
+
+.send-btn button:hover {
+	background: #000000;
+	color: #ffffff;
+	transition: 150ms ease;
+}
+
+.socials-heading {
+	background: #ffa400;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	margin-top: 1.25rem;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+.socials-block {
+	margin-top: 1.25rem;
+	display: flex;
+	gap: 25px;
+}
+
+.socials-block i {
+	font-size: 2.5rem;
+	color: #000000;
+	transition: 300ms ease;
+}
+
+.socials-block i:hover {
+	color: #ffa400;
+	transition: 300ms all;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.form-status {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.form-status.sending {
+  color: #c0c3c5
+}
+
+.form-status.success {
+  color: #006a4d; 
+}
+
+.form-status.error {
+  color: #ed2939;
+}

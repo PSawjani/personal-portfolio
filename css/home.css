@@ -1,0 +1,24 @@
+.home-hero-content {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.home-intro-text span {
+	background: #004990;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	margin-bottom: 1.25rem;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+.home-intro-text p {
+	margin-bottom: 1.25rem;
+}
+
+.home-intro-text {
+	margin-bottom: 1.25rem;
+}
