@@ -1,0 +1,28 @@
+.work-done-heading {
+	background: #111810;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 0 10px;
+	text-transform: uppercase;
+	margin-bottom: 1.25rem;
+}
+
+.portfolio-dashboard-heading p {
+	font-weight: 600;
+	text-decoration: underline;
+	margin-bottom: 1.25rem;
+}
+
+.portfolio-dashboard-img img {
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+	margin-bottom: 1.25rem;
+}
+
+.portfolio-dashboard-img p {
+	font-size: 0.875rem;
+	margin-bottom: 1.25rem;
+	border-bottom: 1px solid #000000;
+	padding-bottom: 1.25rem;
+}
